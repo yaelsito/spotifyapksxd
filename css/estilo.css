@@ -1,0 +1,23 @@
+.accordion-button:not(.collapsed) {
+  color: #ffffff;
+  background-color: #1db954;
+}
+.accordion-button:focus {
+  box-shadow: none;
+  border-color: #1db954;
+}
+.btn.text-light.mb-1 {
+    background-color: #1DB954;
+}
+.nav-link.px-2 {
+    color: #1DB954;
+}
+[redes="si"] {
+    color: #1DB954;
+}
+#titulo, #spoti, #spoti2, #spoti3 {
+    color: #1DB954;
+}
+#android {
+    color: #3DDC84;
+}
